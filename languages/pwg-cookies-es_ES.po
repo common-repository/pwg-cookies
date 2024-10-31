@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: metaslider\n"
+"POT-Creation-Date: 2013-12-16 17:32-0000\n"
+"PO-Revision-Date: 2015-12-21 17:48+0100\n"
+"Last-Translator: Javier Méndez <javier.mendez@programacionwebgalicia.com>\n"
+"Language: es\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+# Admin:
+msgid "Cookie settings"
+msgstr "Configuración de cookies"
+
+msgid "Enable cookies Notice"
+msgstr "Activar Aviso de cookies"
+
+msgid "Text warning cookies"
+msgstr "Texto de aviso de cookies"
+
+msgid "Positions the text [[Link_1]] where you want the link to the page display ad cookies"
+msgstr "Posiciona el texto <code>[[Link_1]]</code> donde quieras que se visualice el enlace a la página de aviso de cookies"
+
+msgid "And third-party use cookies to improve our products and services by analyzing their browsing habits. By accepting this notice mean that you consent to our [[Link_1]]."
+msgstr "Utilizamos cookies propias y de terceros para mejorar nuestros productos y servicios mediante el análisis de sus hábitos de navegación. Al aceptar el presente aviso entendemos que das tu consentimiento a nuestra [[Link_1]]."
+
+msgid "Link title to page warning cookies"
+msgstr "Título del enlace a la página de aviso de cookies"
+
+msgid "Cookies Policy"
+msgstr "Políticas de cookies"
+
+msgid "Page url warning cookies"
+msgstr "Url de la página de aviso de cookies"
+
+msgid "Text button cookie acceptance notice"
+msgstr "Texto botón aceptación aviso de cookies"
+
+msgid "Accept"
+msgstr "Aceptar"
+
+msgid "Enable Google Analytics"
+msgstr "Activar Google Analytics"
+
+msgid "Google Analytics Code"
+msgstr "Código Google Analytics"
+
+msgid "Enter the message text from cookies"
+msgstr "Introduce el mensaje de texto de las cookies"
+
+msgid "Enter the text of the link to the cookies warning"
+msgstr "Introduce el texto del enlace al aviso de cookies"
+
+msgid "Enter the text of the button to accept cookies Announcement"
+msgstr "Introduce el texto del botón de aceptación de cookies"
+
+msgid "Enter your keywords in google analytics"
+msgstr "Introduce tu clave de google analytics"
+
+msgid "Preload cookies regardless of whether the notice is accepted"
+msgstr "Precarga las cookies independientemente de que el aviso sea aceptado"

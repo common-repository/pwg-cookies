@@ -1,0 +1,32 @@
+div#Cookies{
+	background: #000;
+	opacity: 0.7;
+	cursor: pointer;
+	z-index: 9999;
+	bottom: 0;
+	left: 0;
+	position: fixed;
+	width: 100%;	
+	color: white;
+	padding:20px;
+}
+
+div#Cookies div.icon{
+	background: url('cookies.png') no-repeat left center transparent;
+	width: 30px;
+	height: 31px;
+	float: left;
+}
+
+div#Cookies a, div#Cookies a:link, div#Cookies a:hover, div#Cookies a:visited{
+	color: #D5B249;
+}
+div#Cookies div#btnAcceptCookies{
+	border: 1px solid #FFFFFF;
+	color: #FFFFFF;
+	float: right;
+	padding: 3px;
+	text-align: center;
+	width: 100px;
+	background: #000;
+}

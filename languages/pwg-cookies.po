@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: metaslider\n"
+"POT-Creation-Date: 2013-12-16 17:32-0000\n"
+"PO-Revision-Date: 2015-12-21 17:48+0100\n"
+"Last-Translator: Javier Méndez <javier.mendez@programacionwebgalicia.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Language: es\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+# Admin:
+msgid "Cookie settings"
+msgstr "Configuración de cookies"
+
+msgid "Enable cookies Notice"
+msgstr ""
+
+msgid "Text warning cookies"
+msgstr ""
+
+msgid "Positions the text  <code>[[Link_1]]</code> where you want the link to the page display ad cookies"
+msgstr ""
+
+msgid "And third-party use cookies to improve our products and services by analyzing their browsing habits. By accepting this notice mean that you consent to our [[Link_1]]."
+msgstr ""
+
+msgid "Link title to page warning cookies"
+msgstr ""
+
+msgid "Cookies Policy"
+msgstr ""
+
+msgid "Page url warning cookies"
+msgstr ""
+
+msgid "Text button cookie acceptance notice"
+msgstr ""
+
+msgid "Accept"
+msgstr ""
+
+msgid "Enable Google Analytics"
+msgstr ""
+
+msgid "Google Analytics Code"
+msgstr ""
+
+msgid "Enter the message text from cookies"
+msgstr ""
+
+msgid "Enter the text of the link to the cookies warning"
+msgstr ""
+
+msgid "Enter the text of the button to accept cookies Announcement"
+msgstr ""
+
+msgid "Enter your keywords in google analytics"
+msgstr ""
+
+msgid "Preload cookies regardless of whether the notice is accepted"
+msgstr "Precarga las cookies independientemente de que el aviso sea aceptado"
